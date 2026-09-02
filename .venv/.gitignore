@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+
+.idea/
+*.iml
+
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+Thumbs.db
+.DS_Store
